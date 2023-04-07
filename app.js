@@ -1,4 +1,10 @@
 /*
+    Mansoor Ali Ibrahim
+    JavaScript Crash Course
+    JS-124461
+*/
+
+/*
     Question # 1. Write a JavaScript program that accepts two numbers in two prompts and
     displays the larger one in the console.
 */
